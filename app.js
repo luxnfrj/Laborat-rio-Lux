@@ -43,7 +43,8 @@ function pesquisar() {
 
     if (!resultados) {
         resultados = "<p>Nada foi encontrado. Você precisa digitar o nome de um equipamento</p>"
-    }
+    
 
     // Atribui o HTML gerado para a seção de resultados, substituindo o conteúdo anterior
     section.innerHTML = resultados;
+    }
