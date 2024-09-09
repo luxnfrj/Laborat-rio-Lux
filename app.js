@@ -47,4 +47,3 @@ function pesquisar() {
 
     // Atribui o HTML gerado para a seção de resultados, substituindo o conteúdo anterior
     section.innerHTML = resultados;
-}
