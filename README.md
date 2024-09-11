@@ -27,4 +27,4 @@ O Laboratório Lux é uma aplicação web que facilita a busca por equipamentos.
 
 **Contribuidora:**
 
-* **Luiza Asth** - Criador e desenvolvedor principal.
+* **Luiza Asth** - Criadora e desenvolvedora principal.
