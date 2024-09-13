@@ -10,6 +10,10 @@ O Laboratório Lux é uma aplicação web que facilita a busca por equipamentos.
 * **CSS3:** Estilização da página, deixando-a visualmente atraente.
 * **JavaScript:** Lógica da aplicação, responsável pela pesquisa e exibição dos resultados.
 
+## Como acessar 
+
+- link: (https://laboratoriolux.vercel.app/)
+
 ### Como usar
 
 1. **Acesse a aplicação:** Abra a aplicação em seu navegador.
@@ -25,6 +29,14 @@ O Laboratório Lux é uma aplicação web que facilita a busca por equipamentos.
 * **Tags:** Palavras-chave relacionadas ao equipamento (opcional).
 * **Link:** Link para mais informações sobre o equipamento.
 
-**Contribuidora:**
+## Status do Projeto
 
-* **Luiza Asth** - Criadora e desenvolvedora principal.
+**Em desenvolvimento**
+
+## Contato
+
+Para mais informações ou dúvidas, você pode entrar em contato:
+
+- **Nome:** Luiza Asth
+- **E-mail:** luizaasth8@gmail.com
+
