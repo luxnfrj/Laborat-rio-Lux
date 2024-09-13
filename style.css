@@ -22,6 +22,12 @@ h1 {
     text-align: center; /* Alinha o texto ao centro */
     letter-spacing: 0.4rem; /* Espaçamento entre letras */
 }
+h2 {
+    font-size: 1.5rem; /* Tamanho da fonte */
+    color: #050505; /* Cor do texto */
+    text-align: center; /* Alinha o texto ao centro */
+    letter-spacing: 0.4rem; /* Espaçamento entre letras */
+}
 
 /* Estiliza as seções da página */
 section {
