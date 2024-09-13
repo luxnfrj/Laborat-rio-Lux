@@ -12,7 +12,7 @@ O Laboratório Lux é uma aplicação web que facilita a busca por equipamentos.
 
 ## Como acessar 
 
-- link: (https://laboratoriolux.vercel.app/)
+- Link: https://laboratoriolux.vercel.app/
 
 ### Como usar
 
